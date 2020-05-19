@@ -1,6 +1,6 @@
 
 
-it prints the any print string on UART0. As such, it can be used
+it prints  any  string on UART0. As such, it can be used
 easily with qemu, like
 
 ```sh
